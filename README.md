@@ -1,5 +1,4 @@
 
-<details>
 <>About Open Source </>
 
 🚀 Some of my main projects:
@@ -13,7 +12,6 @@
 
 👀 [Get More ...](https://github.com/sy-records)
 
-</details>
 
 ---
 ----
