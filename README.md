@@ -1,6 +1,6 @@
 
 <details>
-<summary>About Open Source </summary>
+<>About Open Source </>
 
 🚀 Some of my main projects:
 
